@@ -1,6 +1,4 @@
 # hello-world
 Start a Repository
 
-import torch
-import torch.nn.functional as F
-from torch.autograd import Variable
+Here I will import some useful packages!
